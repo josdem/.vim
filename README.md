@@ -21,8 +21,10 @@ Setup
 1. Clone this repo in your ${home}
 2. Setup NeoBundle:
 
+```
  $ mkdir ~/.vim/bundle
  $ git clone https://github.com/Shougo/neobundle.vim ~/.vim/bundle/neobundle.vim
+```
 
 FAQ
 ====
