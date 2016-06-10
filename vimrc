@@ -30,6 +30,7 @@ NeoBundle 'rstacruz/sparkup', {'rtp': 'vim/'}
 NeoBundle 'mattn/emmet-vim'
 NeoBundle 'elixir-lang/vim-elixir'
 NeoBundle 'rking/ag.vim'
+NeoBundle 'peterhoeg/vim-qml'
 
 " vim-scripts repos
 NeoBundle 'L9'
