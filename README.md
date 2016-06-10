@@ -18,10 +18,12 @@ http://www.vimpusher.com/plugins
 Setup
 ====
 
-You can install this via the command
+1. Clone this repo in your ${home}
+2. Setup NeoBundle:
 
 ```
-curl -L https://raw.githubusercontent.com/sohjiro/.vim/master/run_config.sh | sh
+ $ mkdir ~/.vim/bundle
+ $ git clone https://github.com/Shougo/neobundle.vim ~/.vim/bundle/neobundle.vim
 ```
 
 FAQ
