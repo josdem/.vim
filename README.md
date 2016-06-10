@@ -22,8 +22,8 @@ Setup
 2. Setup NeoBundle:
 
 ```
- $ mkdir ~/.vim/bundle
- $ git clone https://github.com/Shougo/neobundle.vim ~/.vim/bundle/neobundle.vim
+ $ curl https://raw.githubusercontent.com/Shougo/neobundle.vim/master/bin/install.sh > install.sh
+ $ sh ./install.sh
 ```
 
 FAQ
